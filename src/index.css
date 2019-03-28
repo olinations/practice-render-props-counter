@@ -6,7 +6,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 36px;
 }
+
+.clickerLayout { text-align: center; margin-top:20px; padding: 100px; }
+.dark { background: #444; color: white; padding: 100px;}
+.pointer { cursor: pointer; }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
